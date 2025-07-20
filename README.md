@@ -4,6 +4,8 @@ This repository contains the skeleton code for building a simplified BitTorrent 
 
 The goal is to fill in the function and class definitions in the `pieces/` directory. The test suite in the `tests/` directory is already complete. As you implement the functionality, the tests will start to pass.
 
+Follow guide.md for instructions.
+
 ## Setup
 
 1.  **Clone the repository:**
