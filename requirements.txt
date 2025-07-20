@@ -1,0 +1,11 @@
+#### `requirements.txt`
+#### These are the libraries needed for the client and for running the tests.
+
+
+# For the client
+aiohttp
+aiodns
+
+# For testing
+pytest
+pytest-asyncio
